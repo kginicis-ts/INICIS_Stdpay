@@ -6,6 +6,6 @@
 
 
 <h6> [결제창 호출 오류] </h6>
-- 전체 조회 
-사용문법: [Title](link)
-적용예: [Google](https://google.com, "google link")
+- 전체 조회 <br>
+사용문법: [Title](link) <br>
+적용예: [Google](https://google.com, "google link") <br>
