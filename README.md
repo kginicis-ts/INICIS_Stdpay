@@ -14,11 +14,11 @@
 
 <br>
 
-### FAQ ... [Go](https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ)
+### [ FAQ ] ... [바로보기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ)
 <h6> - 자주 문의되는 질문을 정리해 두었습니다. </h6> 
 <br><br>
 
-### 오류코드 기준 조회 ... [Go](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aopen+V016)
+### [ 오류코드 기준 조회 ] ... [바로보기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aopen+V016)
 <h6> - 오류코드 기준으로 조회를 하실 수 있습니다. </h6> 
 <br>
 
@@ -26,7 +26,7 @@
 
 <br><br>
 
-### 댓글 달기
+### [ 댓글 달기 ] ... [ [Issues](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
 <h6> - 게시글 내용의 제일 하단에서 의견이나 댓글을 다실 수 있습니다. </h6> 
 <br>
 
@@ -35,8 +35,8 @@
 <br><br>
 
 
-### 게시글 생성
-<h6> - 게시글을 생성하실 수 있습니다. </h6> 
+### [ 게시글 생성 ]
+<h6> - Issues 탭에서 게시글을 생성하실 수 있습니다. </h6> 
 <br>
 
 ![image](https://user-images.githubusercontent.com/100749490/176362444-349998d7-9c7f-4f61-820d-68394b5e3efd.png)
