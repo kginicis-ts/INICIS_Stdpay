@@ -8,6 +8,16 @@
 
 > 개발연동 시 문의사항 및 오류가이드는 [ [Issues](https://github.com/ts-inicis/INIStdPay-Manual/issues) ] 메뉴에서 확인하실 수 있습니다.
 
+<hr>
+<br><br><br>
+
+# 빠른 연결
+#### 1. FAQ ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ) ]
+#### 2. 오류코드 기준 조회 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aopen+V016) ]
+#### 3. 댓글 달기 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
+#### 4. 게시글 생성 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
+
+<hr>
 <br><br><br>
 
 ## 가이드 & 커뮤니티 사용 방법
