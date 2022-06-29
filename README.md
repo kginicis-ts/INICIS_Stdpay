@@ -8,6 +8,8 @@
 
 > 개발연동 시 문의사항 및 오류가이드는 [ [Issues](https://github.com/ts-inicis/INIStdPay-Manual/issues) ] 메뉴에서 확인하실 수 있습니다.
 
+
+<br><br><br>
 <hr>
 <br><br><br>
 
@@ -17,16 +19,19 @@
 #### 3. 댓글 달기 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
 #### 4. 게시글 생성 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
 
+
+<br><br><br>
 <hr>
 <br><br><br>
 
-## 가이드 & 커뮤니티 사용 방법
+
+# 가이드 & 커뮤니티 사용 방법
 
 <br>
 
 ### 1. FAQ ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ) ]
 <h6> - 자주 문의되는 질문을 정리해 두었습니다. </h6> 
-<br><br>
+<hr><br><br>
 
 ### 2. 오류코드 기준 조회 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aopen+V016) ] 
 <h6> - 오류코드 기준으로 조회를 하실 수 있습니다. </h6> 
@@ -34,7 +39,7 @@
 
 ![image](https://user-images.githubusercontent.com/100749490/176360023-eeb2fc08-8a0e-4528-aed9-a4af7eb99116.png)
 
-<br><br>
+<hr><br><br>
 
 ### 3. 댓글 달기 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
 <h6> - 게시글 내용의 제일 하단에서 의견이나 댓글을 다실 수 있습니다. </h6> 
@@ -42,7 +47,7 @@
 
 ![image](https://user-images.githubusercontent.com/100749490/176360575-36ad0f5d-508f-4332-9add-438ea35eaa98.png)
 
-<br><br>
+<hr><br><br>
 
 
 ### 4. 게시글 생성 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
@@ -51,11 +56,16 @@
 
 ![image](https://user-images.githubusercontent.com/100749490/176362444-349998d7-9c7f-4f61-820d-68394b5e3efd.png)
 
-<br><br>
+<hr><br><br>
 
 
+### 5. 이슈 해결된 게시글 확인 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
+<h6> - Issues > Close 필터에서 확인하실 수 있습니다. </h6> 
+<br>
 
+![image](https://user-images.githubusercontent.com/100749490/176362444-349998d7-9c7f-4f61-820d-68394b5e3efd.png)
 
+<hr><br><br>
 
 
 
