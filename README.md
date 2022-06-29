@@ -59,7 +59,7 @@
 <hr><br><br>
 
 
-### 5. 이슈 해결된 게시글 확인 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
+### 5. 이슈 해결된 게시글 확인 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aclosed) ]
 <h6> - Issues > Close 필터에서 확인하실 수 있습니다. </h6> 
 <br>
 
