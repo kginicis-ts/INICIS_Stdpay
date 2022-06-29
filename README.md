@@ -18,6 +18,7 @@
 #### 2. 오류코드 기준 조회 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aopen+V016) ]
 #### 3. 댓글 달기 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
 #### 4. 게시글 생성 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
+#### 5. 이슈 해결된 게시글 확인 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aclosed) ]
 
 
 <br><br><br>
@@ -63,7 +64,7 @@
 <h6> - Issues > Close 필터에서 확인하실 수 있습니다. </h6> 
 <br>
 
-![image](https://user-images.githubusercontent.com/100749490/176362444-349998d7-9c7f-4f61-820d-68394b5e3efd.png)
+![image](https://user-images.githubusercontent.com/100749490/176368718-f614ea2b-f67e-40d4-964c-3ab9e20bba09.png)
 
 <hr><br><br>
 
