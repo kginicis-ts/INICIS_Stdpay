@@ -20,3 +20,4 @@
 <h6> - 오류코드 기준으로 조회를 하실 수 있습니다. </h6> 
 <br>
 
+![image](https://user-images.githubusercontent.com/100749490/176360023-eeb2fc08-8a0e-4528-aed9-a4af7eb99116.png)
