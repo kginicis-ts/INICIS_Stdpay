@@ -14,11 +14,11 @@
 
 <br>
 
-### [ FAQ ] ... [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ)
+### [ FAQ ] ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ) ]
 <h6> - 자주 문의되는 질문을 정리해 두었습니다. </h6> 
 <br><br>
 
-### [ 오류코드 기준 조회 ] ... [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aopen+V016)
+### [ 오류코드 기준 조회 ] ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aopen+V016) ] 
 <h6> - 오류코드 기준으로 조회를 하실 수 있습니다. </h6> 
 <br>
 
