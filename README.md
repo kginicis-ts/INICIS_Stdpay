@@ -12,7 +12,7 @@
 
 ## 가이드 & 커뮤니티 사용 방법
 
-### FAQ ... [Go](https://github.com/kginicis-ts/INIStdPay-Manual/labels/FAQ)
+### FAQ ... [Go](https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ)
 <h6> - 자주 문의되는 질문을 정리해 두었습니다. </h6> 
 <br>
 
