@@ -12,7 +12,7 @@
 
 ## 가이드 & 커뮤니티 사용 방법
 
-<br><br><br>
+<br>
 
 ### FAQ ... [Go](https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ)
 <h6> - 자주 문의되는 질문을 정리해 두었습니다. </h6> 
@@ -27,9 +27,25 @@
 <br><br>
 
 ### 댓글 달기
-<h6> - 게시글에 의견이나 댓글을 다실 수 있습니다. </h6> 
+<h6> - 게시글 내용의 제일 하단에서 의견이나 댓글을 다실 수 있습니다. </h6> 
 <br>
 
 ![image](https://user-images.githubusercontent.com/100749490/176360575-36ad0f5d-508f-4332-9add-438ea35eaa98.png)
 
 <br><br>
+
+
+### 게시글 생성
+<h6> - 게시글을 생성하실 수 있습니다. </h6> 
+<br>
+
+![image](https://user-images.githubusercontent.com/100749490/176362444-349998d7-9c7f-4f61-820d-68394b5e3efd.png)
+
+<br><br>
+
+
+
+
+
+
+
