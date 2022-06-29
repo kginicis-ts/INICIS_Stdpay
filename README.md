@@ -21,3 +21,10 @@
 <br>
 
 ![image](https://user-images.githubusercontent.com/100749490/176360023-eeb2fc08-8a0e-4528-aed9-a4af7eb99116.png)
+
+
+### 댓글 달기
+<h6> - 게시글에 의견이나 댓글을 다실 수 있습니다. </h6> 
+<br>
+
+![image](https://user-images.githubusercontent.com/100749490/176360575-36ad0f5d-508f-4332-9add-438ea35eaa98.png)
