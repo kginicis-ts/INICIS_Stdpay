@@ -1,4 +1,4 @@
-# PC(웹표준) - INIStdPay 모듈연동 가이드 및 커뮤니티 입니다.
+# PC(웹표준) 모듈연동 가이드 및 커뮤니티 입니다.
 
 > 연동 환경 및 방화벽 등의 상세 정보는 [ [개발가이드](https://manual.inicis.com/stdpay) > [방화벽정보](https://manual.inicis.com/stdpay/std-info.php#firewall) ] 참고 부탁드립니다.
 
