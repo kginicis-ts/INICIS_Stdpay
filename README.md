@@ -1,4 +1,7 @@
-# PC(웹표준) 모듈연동 가이드 및 커뮤니티 입니다.
+# PC(웹표준) 모듈연동 가이드 및 소통공간 입니다.
+
+> 오류 혹은 이슈 관련 내용을 검색해보시고, 조회되는 내용이 있다면 참고 부탁드립니다.
+  없다면 새로운 이슈글을 작성해 주시면 됩니다. (최대한 구체적으로 작성해주시면 도움이 됩니다.)
 
 > 연동 환경 및 방화벽 등의 상세 정보는 [ [개발가이드](https://manual.inicis.com/stdpay) > [방화벽정보](https://manual.inicis.com/stdpay/std-info.php#firewall) ] 참고 부탁드립니다.
 
@@ -14,11 +17,12 @@
 <br><br><br>
 
 # 빠른 연결
-#### 1. FAQ ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ) ]
-#### 2. 오류코드 기준 조회 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aopen+V016) ]
-#### 3. 댓글 달기 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
-#### 4. 게시글 생성 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
-#### 5. 이슈 해결된 게시글 확인 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aclosed) ]
+#### 1. 공식가이드 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aopen+is%3Aissue+label%3A%EA%B3%B5%EC%8B%9D%EA%B0%80%EC%9D%B4%EB%93%9C) ]
+#### 2. FAQ ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ) ]
+#### 3. 오류코드 기준 조회 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aopen+V016) ]
+#### 4. 댓글 달기 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
+#### 5. 게시글 생성 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
+#### 6. 이슈 해결된 게시글 확인 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aclosed) ]
 
 
 <br><br><br>
@@ -30,11 +34,15 @@
 
 <br>
 
-### 1. FAQ ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ) ]
+### 1. 공식가이드 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ) ]
+<h6> - 이니시스 기술지원에서 공식 배포된 가이드입니다.  </h6> 
+<hr><br><br>
+
+### 2. FAQ ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ) ]
 <h6> - 자주 문의되는 질문을 정리해 두었습니다. </h6> 
 <hr><br><br>
 
-### 2. 오류코드 기준 조회 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aopen+V016) ] 
+### 3. 오류코드 기준 조회 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aopen+V016) ] 
 <h6> - 오류코드 기준으로 조회를 하실 수 있습니다. </h6> 
 <br>
 
@@ -42,7 +50,7 @@
 
 <hr><br><br>
 
-### 3. 댓글 달기 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
+### 4. 댓글 달기 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
 <h6> - 게시글 내용의 제일 하단에서 의견이나 댓글을 다실 수 있습니다. </h6> 
 <br>
 
@@ -51,7 +59,7 @@
 <hr><br><br>
 
 
-### 4. 게시글 생성 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
+### 5. 게시글 생성 ... [ [바로가기](https://github.com/ts-inicis/INIStdPay-Manual/issues) ]
 <h6> - Issues 탭에서 게시글을 생성하실 수 있습니다. </h6> 
 <br>
 
@@ -60,7 +68,7 @@
 <hr><br><br>
 
 
-### 5. 이슈 해결된 게시글 확인 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aclosed) ]
+### 6. 이슈 해결된 게시글 확인 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aissue+is%3Aclosed) ]
 <h6> - Issues > Close 필터에서 확인하실 수 있습니다. </h6> 
 <br>
 
