@@ -34,7 +34,7 @@
 
 <br>
 
-### 1. 공식가이드 ... [ [바로가기]([https://github.com/kginicis-ts/INICIS-PC-WebStandard/labels/FAQ](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aopen+is%3Aissue+label%3A%EA%B3%B5%EC%8B%9D%EA%B0%80%EC%9D%B4%EB%93%9C) ]
+### 1. 공식가이드 ... [ [바로가기](https://github.com/kginicis-ts/INICIS-PC-WebStandard/issues?q=is%3Aopen+is%3Aissue+label%3A%EA%B3%B5%EC%8B%9D%EA%B0%80%EC%9D%B4%EB%93%9C) ]
 <h6> - 이니시스 기술지원에서 공식 배포된 가이드입니다.  </h6> 
 <hr><br><br>
 
