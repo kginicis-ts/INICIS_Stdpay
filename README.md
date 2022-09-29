@@ -3,9 +3,9 @@
 > 오류 혹은 이슈 관련 내용을 검색해보시고, 조회되는 내용이 있다면 참고 부탁드립니다.
   없다면 새로운 이슈글을 작성해 주시면 됩니다. (최대한 구체적으로 작성해주시면 도움이 됩니다.)
 
-> 연동 환경 및 방화벽 등의 상세 정보는 [ [개발가이드](https://manual.inicis.com/stdpay) > [방화벽정보](https://manual.inicis.com/stdpay/std-info.php#firewall) ] 참고 부탁드립니다.
+> 연동 환경 및 방화벽 등의 상세 정보는 [ [개발가이드](https://manual.inicis.com/pay/stdpay_pc.html) 참고 부탁드립니다.
 
-> 샘플 다운로드는 [ [개발가이드](https://manual.inicis.com/stdpay) > 샘플 다운로드 ] 에서 제공해 드리고 있습니다.<br>
+> 샘플 다운로드는 [ [개발가이드](https://manual.inicis.com/pay/stdpay_pc.html) > 샘플 다운로드 ] 에서 제공해 드리고 있습니다.<br>
 > 계약하신 상점아이디로 로그인 가능하며, 계약 이전일 경우 당사 영업담당자측으로 문의 부탁드립니다. <br>
 > ** 담당자를 모르실 경우 고객센터 1588 - 4954 를 통해 연결 가능합니다.
 
