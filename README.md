@@ -1,7 +1,7 @@
 # 일반결제(PC/모바일) 커뮤니티 입니다.
 
 > 오류 혹은 이슈 관련 내용을 검색해보시고, 조회되는 내용이 있다면 참고 부탁드립니다.
-  없다면 새로운 이슈글을 작성해 주시면 됩니다. (최대한 구체적으로 작성해주시면 도움이 됩니다.)
+  서비스 관련 문의사항은 기술지원팀 이메일(ts@kggroup.co.kr)로 회신 부탁드립니다.
 
 > 퀵가이드, 샘플, 연동 환경 및 방화벽 등의 상세 정보는 아래 링크에서 참고 부탁드립니다.
 
@@ -62,16 +62,7 @@
 <hr><br><br>
 
 
-### 5. 게시글 생성 ... [ [바로가기](https://github.com/kginicis-ts/INICIS_Stdpay/issues/new) ]
-<h6> - Issues 탭에서 게시글을 생성하실 수 있습니다. </h6> 
-<br>
-
-![image](https://user-images.githubusercontent.com/100749490/176362444-349998d7-9c7f-4f61-820d-68394b5e3efd.png)
-
-<hr><br><br>
-
-
-### 6. 이슈 해결된 게시글 확인 ... [ [바로가기](https://github.com/kginicis-ts/INICIS_Stdpay/issues?q=is%3Aissue+is%3Aclosed) ]
+### 5. 이슈 해결된 게시글 확인 ... [ [바로가기](https://github.com/kginicis-ts/INICIS_Stdpay/issues?q=is%3Aissue+is%3Aclosed) ]
 <h6> - Issues > Close 필터에서 확인하실 수 있습니다. </h6> 
 <br>
 
