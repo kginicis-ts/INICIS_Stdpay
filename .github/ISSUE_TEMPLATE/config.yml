@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Issue 생성이 제한되었습니다
+    url: ts@kggroup.co.kr
+    about: 외부 사용자는 Issue를 등록할 수 없습니다. 문의는 기술지원 공식 이메일을 이용해 주세요.
